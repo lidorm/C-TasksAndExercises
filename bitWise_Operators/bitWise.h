@@ -36,7 +36,7 @@ public:
                 cout<<"tee"<<endl;
                 break;
             case tee|sugar:
-                cout<<"tee with sufar"<<endl;
+                cout<<"tee with sugar"<<endl;
                 break;
                 
                 
