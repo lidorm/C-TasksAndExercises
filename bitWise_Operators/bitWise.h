@@ -2,8 +2,8 @@
 //  bitWise.h
 //  bitWise_Operators
 //
-//  Created by לידור משיח on 05/11/2018.
-//  Copyright © 2018 לידור משיח. All rights reserved.
+//  Created by Lidor Mashiah on 05/11/2018.
+//  Copyright © 2018 Lidor Mashiah. All rights reserved.
 //
 
 #ifndef bitWise_h
